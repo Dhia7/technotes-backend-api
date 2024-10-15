@@ -1,1 +1,1 @@
-# inventory-application
+# technote-backend-api
